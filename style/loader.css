@@ -1,0 +1,13 @@
+.loader {
+    background-image: url("https://dribbble.com/shots/18490388-Good-vs-Perfect?utm_source=Clipboard_Shot&utm_campaign=lemondigital&utm_content=Good%20vs%20Perfect&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=lemondigital&utm_content=Good%20vs%20Perfect&utm_medium=Social_Share");
+    width: 100vw;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    overflow: hidden;
+
+}
